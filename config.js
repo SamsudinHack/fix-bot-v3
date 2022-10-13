@@ -13,7 +13,7 @@
 // • Rlxfly
 // • Rasel comel
 // • ImYanXiao
-// • WH MODS DEV
+// • NothingOfc
 // • Xtreshe
 // • Dll
 
@@ -381,8 +381,8 @@ global.hwaifu2 = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
-global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = false // Nsfw Mode Premium?
+global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
+global.premnsfw = true // Nsfw Mode Premium?
 
 
 //Ini cuma simpenan owner kok :v
