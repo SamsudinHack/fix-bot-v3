@@ -3,7 +3,7 @@
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
-// • Allah SWT
+// • Tuhan yang maha esa
 // • Nurutomo
 // • Bochilgaming
 // • Rominaru
@@ -143,7 +143,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘HitomiBot-V1 ˘ฅ ꒱ ‧₊˚�
 global.wm3 = '⫹⫺ Hitomi-BotV1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | `hitomiBot`
+global.titlebot = `⫹⫺ WhatsApp Bot | hitomiBot`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = '                「 Hitomi-Bot-v1  あ」'
 
@@ -381,8 +381,8 @@ global.hwaifu2 = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
-global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
+global.premnsfw = false // Nsfw Mode Premium?
 
 
 //Ini cuma simpenan owner kok :v
